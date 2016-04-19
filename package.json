@@ -1,0 +1,40 @@
+{
+  "name": "gulpfile.js",
+  "version": "1.0.0",
+  "description": "Personal gulp setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelbieh/gulpfile.js.git"
+  },
+  "keywords": [
+    "Gulp"
+  ],
+  "author": "Manuel Bieh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manuelbieh/gulpfile.js/issues"
+  },
+  "homepage": "https://github.com/manuelbieh/gulpfile.js#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.3.6",
+    "babel-register": "^6.7.2",
+    "gulp": "^3.9.1",
+    "gulp-cssnano": "^2.1.1",
+    "gulp-debug": "^2.1.2",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-postcss": "^6.1.0",
+    "gulp-rev": "^7.0.0",
+    "gulp-rev-napkin": "^0.1.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-svg-css": "^1.1.0",
+    "gulp-svgmin": "^1.2.2",
+    "json5": "^0.5.0",
+    "require-dir": "^0.3.0"
+  }
+}
